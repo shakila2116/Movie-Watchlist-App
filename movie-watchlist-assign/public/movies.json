@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Ghilli",
+    "genre": "Action",
+    "year": 2004,
+    "rating": 8.2
+  },
+  {
+    "id": 2,
+    "title": "Pokkiri",
+    "genre": "Action",
+    "year": 2007,
+    "rating": 7.6
+  },
+  {
+    "id": 3,
+    "title": "Thuppakki",
+    "genre": "Action",
+    "year": 2012,
+    "rating": 8.1
+  },
+  {
+    "id": 4,
+    "title": "Kaththi",
+    "genre": "Drama",
+    "year": 2014,
+    "rating": 8.1
+  },
+  {
+    "id": 5,
+    "title": "Theri",
+    "genre": "Action",
+    "year": 2016,
+    "rating": 7.4
+  },
+  {
+    "id": 6,
+    "title": "Mersal",
+    "genre": "Drama",
+    "year": 2017,
+    "rating": 7.5
+  },
+  {
+    "id": 7,
+    "title": "Bigil",
+    "genre": "Sports",
+    "year": 2019,
+    "rating": 6.7
+  },
+  {
+    "id": 8,
+    "title": "Master",
+    "genre": "Action",
+    "year": 2021,
+    "rating": 7.4
+  },
+  {
+    "id": 9,
+    "title": "Leo",
+    "genre": "Action",
+    "year": 2023,
+    "rating": 7.2
+  },
+  {
+    "id": 10,
+    "title": "Nanban",
+    "genre": "Comedy",
+    "year": 2012,
+    "rating": 7.8
+  },
+  {
+    "id": 11,
+    "title": "Kushi",
+    "genre": "Romance",
+    "year": 2000,
+    "rating": 7.5
+  },
+  {
+    "id": 12,
+    "title": "Sachein",
+    "genre": "Romance",
+    "year": 2005,
+    "rating": 7.4
+  }
+]

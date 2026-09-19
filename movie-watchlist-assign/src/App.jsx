@@ -8,11 +8,7 @@ function App() {
   const [movies, setmovies] = useState([]);
   const [watchlist, setwatchlist] = useState([]);
   function handleWatchlist(movie) {
-    const alreadyAdded = watchlist.some((item) => item.id === movie.id);
-
-    if (!alreadyAdded) {
       setwatchlist([...watchlist, movie]);
-    }
   }
   function remove(id) {
     setwatchlist(watchlist.filter((movie) => movie.id !== id));
